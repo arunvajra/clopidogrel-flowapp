@@ -1,0 +1,8 @@
+id,label,action
+1,Consider genetic testing for CYP2C19 to rule out any drug-gene interactions with Clopidegrol the patient may have,
+2,Current evidence does not support testing of these genes to guide Clopidegrol therapy. Consider genetic testing for CYP2C19 to rule out any drug-gene interactions with Clopidegrol the patient may have,
+3,"Consult with the patient's care team as clopidogrel, prasugrel and ticagrelor are ALL contraindicated in this patient.",
+4,"If CYP2C19 UM, RM or NM: Use clopidogrel at the label recommended dose.
+If CYP2C19 IM, LIM, LPM or PM: Consider prasugrel instead of clopidogrel or ticagrelor in this patient.",
+5,"If CYP2C19 UM, RM or NM: Use clopidogrel at the label recommended dose. If CYP2C19 IM, LIM, LPM or PM: Consider either prasugrel or ticagrelor instead of clopidogrel in this patient.",
+6,
